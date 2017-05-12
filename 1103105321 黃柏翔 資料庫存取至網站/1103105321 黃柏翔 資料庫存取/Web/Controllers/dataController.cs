@@ -24,6 +24,26 @@ namespace Web.Controllers
             });
             return Content(message);
         }
-   
+
+        public ActionResult Index(string userName = "")
+        {
+            var database = new db();
+
+            var stations = database.Readhomework();
+            //var message = string.Format("共收到{0}筆監測站的資料<br/>", stations.Count);
+            //stations.ForEach(x =>
+            //{
+            //    message += string.Format("站點名稱：{0},地址:{1}<br/>", x.ObservatoryName, x.LocationAddress);
+
+
+            //});
+            ViewBag.UserName = userName;
+            ViewBag.database = database;
+
+            return View(database);
+        }
+
+
+
     }
 }
