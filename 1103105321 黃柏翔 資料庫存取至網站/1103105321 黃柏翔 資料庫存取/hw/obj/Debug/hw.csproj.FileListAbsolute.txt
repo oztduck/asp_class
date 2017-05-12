@@ -1,0 +1,28 @@
+C:\Users\Marvell\Desktop\hw\hw\bin\Debug\hw.exe.config
+C:\Users\Marvell\Desktop\hw\hw\bin\Debug\hw.exe
+C:\Users\Marvell\Desktop\hw\hw\bin\Debug\hw.pdb
+C:\Users\Marvell\Desktop\hw\hw\obj\Debug\hw.csprojResolveAssemblyReference.cache
+C:\Users\Marvell\Desktop\hw\hw\obj\Debug\hw.exe
+C:\Users\Marvell\Desktop\hw\hw\obj\Debug\hw.pdb
+C:\Users\user\Desktop\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\hw.exe.config
+C:\Users\user\Desktop\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\obj\Debug\hw.exe
+C:\Users\user\Desktop\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\obj\Debug\hw.pdb
+C:\Users\user\Desktop\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\hw.exe
+C:\Users\user\Desktop\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\hw.pdb
+C:\Users\user\Desktop\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\obj\Debug\hw.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\hw.exe.config
+C:\Users\user\Desktop\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\obj\Debug\hw.exe
+C:\Users\user\Desktop\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\obj\Debug\hw.pdb
+C:\Users\user\Desktop\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\hw.exe
+C:\Users\user\Desktop\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\hw.pdb
+C:\Users\user\Desktop\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\obj\Debug\hw.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\hw.exe.config
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\obj\Debug\hw.exe
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\obj\Debug\hw.pdb
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\obj\Debug\hw.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\hw.exe
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\hw.pdb
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\Database.dll
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\Database.pdb
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\data\homework.mdf
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\hw\bin\Debug\data\homework_log.ldf

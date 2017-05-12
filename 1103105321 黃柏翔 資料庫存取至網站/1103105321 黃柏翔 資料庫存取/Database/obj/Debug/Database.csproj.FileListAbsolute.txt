@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\Database\bin\Debug\Database.dll
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\Database\bin\Debug\Database.pdb
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\Database\obj\Debug\Database.dll
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\Database\obj\Debug\Database.pdb
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\Database\bin\Debug\data\homework.mdf
+C:\Users\user\Desktop\asp_class-master\asp_class-master\1103105321 黃柏翔 資料庫存取\1103105321 黃柏翔 資料庫存取\Database\bin\Debug\data\homework_log.ldf
